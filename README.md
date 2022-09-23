@@ -1,4 +1,4 @@
-# Challenge-10-IntrepidAlias
+# IntrepidAlias
 Module 10 Object-Oriented Programming Challenge: Team Profile Generator
 
 ## Your Task
@@ -62,8 +62,6 @@ https://github.com/GordonOrr/IntrepidAlias
 ## Video Demonstration
 
 ## Screen Shots of Application
-![Screen Shot One](images/screenshot-one.png?raw=true "Screenshot One")
-![Screen Shot Two](images/screenshot-two.png?raw=true "Screenshot Two")
 
 ## Contribution
 Made with ❤️ by Gordon Orr
